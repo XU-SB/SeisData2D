@@ -1,4 +1,3 @@
-# file: setup.py
 from setuptools import setup, find_packages
 
 setup(
@@ -13,7 +12,7 @@ setup(
     install_requires=[
         "numpy",
         "scipy",
-        "obspy"
+        "matplotlib",  # Removed obspy, added matplotlib
     ],
 )
 
