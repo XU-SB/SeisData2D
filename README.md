@@ -1,6 +1,6 @@
 # SeisData2D
 
-SeisData2D is an open-source Python package created by Dr. Xu Shibo from JX Nippon, offering tools for processing and analyzing 2D seismic datasets. Designed for geophysicists and researchers, this package aims to simplify the workflow for loading, manipulating, and visualizing seismic data. The package includes a variety of useful functionalities for 2D seismic data processing, such as data loading, common offset and shot gathers visualization, and basic seismic data manipulation.
+SeisData2D is an open-source Python package created by Dr. Xu Shibo from ENEOS Xplora, offering tools for processing and analyzing 2D seismic datasets. Designed for geophysicists and researchers, this package aims to simplify the workflow for loading, manipulating, and visualizing seismic data. The package includes a variety of useful functionalities for 2D seismic data processing, such as data loading, common offset and shot gathers visualization, and basic seismic data manipulation.
 
 ## Installation
 To install SeisData2D, first clone the repository:
