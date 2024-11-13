@@ -15,10 +15,20 @@ pip install -r requirements.txt
 ```
 
 ## Main Features
-- Load 2D seismic data in common formats (e.g., SEG-Y)
+- Load 2D seismic data in common formats (e.g., SEG-Y, binary)
 - Extract and visualize shot gathers, CMP gathers, and stacked sections
 - Simple data manipulation including scaling, filtering, and trace editing
 - Display seismic data with customizable visualization settings
+
+## Additional Features
+- **Convolution**: Apply convolution operations for synthetic seismogram generation and data processing.
+- **Cross-Correlation**: Perform cross-correlation for similarity analysis, time shifts, and velocity estimation.
+- **Signal Processing and Filter Application**: Use a variety of filters (e.g., bandpass, high-pass, low-pass) to enhance seismic data quality.
+- **Amplitude Recovery**: Apply amplitude recovery techniques to compensate for energy loss over distance.
+- **Velocity Analysis**: Conduct velocity analysis to determine subsurface velocity models for improved imaging.
+- **Reverse Time Migration (RTM)**: Use RTM for high-resolution imaging of complex structures.
+- **Full Waveform Inversion (FWI)**: Apply FWI techniques to retrieve detailed subsurface properties from seismic data.
+
 
 ## Usage Example
 ```python
