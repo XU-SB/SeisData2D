@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Main Features
-- Load 2D seismic data in common formats (e.g., SEG-Y, binary)
+- Load 2D seismic data in common formats (e.g., SEG-Y, Binary)
 - Extract and visualize shot gathers, CMP gathers, and stacked sections
 - Simple data manipulation including scaling, filtering, and trace editing
 - Display seismic data with customizable visualization settings
